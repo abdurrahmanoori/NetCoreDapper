@@ -1,0 +1,6 @@
+@NetCoreDapper.API_HostAddress = http://localhost:5168
+
+GET {{NetCoreDapper.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
